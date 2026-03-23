@@ -5,10 +5,10 @@
 <p align="center">
   <strong>Developers, designers, and Minecraft enthusiasts crafting the ultimate modded experience.</strong>
 </p>
-<p align="center">
+
 > [!IMPORTANT]
 > This project is **completely separate and not related, associated, affiliated** with Microsoft, Mojang, Polyfrost or their subsidiaries or products
-</p>|
+
 
 <p align="center">
   <a href="https://photon.qzz.io/"><img src="https://img.shields.io/badge/Website-Connect-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
