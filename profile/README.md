@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1449385641963032687/1464604666120769547/banner.png?ex=697612e3&is=6974c163&hm=23d7ca25bd23c2ec438e60dcfbc6b7187f7c35e723e51c838a797978550f9cc7&" alt="PhotonMC Banner" width="100%">
+  <img src="a" alt="PhotonMC Banner" width="100%">
 </p>
 
 <p align="center">
   <strong>Developers, designers, and Minecraft enthusiasts crafting the ultimate modded experience.</strong>
 </p>
+<p align="center">
+> [!IMPORTANT]
+> This project is **completely separate and not related, associated, affiliated** with Microsoft, Mojang, Polyfrost or their subsidiaries or products
+</p>|
 
 <p align="center">
   <a href="https://photon.qzz.io/"><img src="https://img.shields.io/badge/Website-Connect-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
@@ -14,20 +18,10 @@
 
 ---
 
-### ⚡ About Us
+###  About Us
 We are a dedicated team focused on pushing the boundaries of Minecraft modding. Whether you're here for our tools, our community, or our mods, we're glad to have you.
 
 *   **Spotted a bug?** Please [open a report](https://discord.gg/QFwuEbESYe) on our Discord.
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,vscode,visualstudio,js,ts,discordjs,py,html,css,rust&perline=14&theme=dark" />
-  </a>
-</p>
 
 ---
-
-<p align="center">
-  <sub><strong>Disclaimer:</strong> NOT APPROVED BY OR ASSOCIATED OR AFFILIATED WITH MOJANG OR MICROSOFT OR POLYFROST OR THEIR SUBSIDIARIES OR PRODUCTS.</sub>
-</p>
