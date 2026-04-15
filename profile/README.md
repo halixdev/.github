@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="a" alt="PhotonMC Banner" width="100%">
+  <img src="a" alt="Halix Banner" width="100%">
 </p>
 
 <p align="center">
